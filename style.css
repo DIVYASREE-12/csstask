@@ -27,7 +27,7 @@ span{
 }
 .navbar{
 
-position:fixed;
+
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -45,8 +45,6 @@ position:fixed;
 }
 
 .logo {
-    
-position:fixed;
     font-size: 30px;
     color: #000000;
 }
@@ -58,7 +56,6 @@ button:hover {
     cursor: pointer;
 }
 button {
-    position:fixed;
     padding: 15px 30px;
     border-radius: 30px;
     margin-top: 5%;
@@ -88,13 +85,12 @@ button {
     
 }
 .text {
-    position:fixed;
     color: white;
     position: relative;
     margin-left: 20%;
     top: 50%;
     transform: translateY(-50%);
-    transition: 0.3s;
+    transition: 0.5s;
 }
 
 .text h1 {
@@ -126,7 +122,6 @@ button {
 
 }
 .pageno {
-    position:fixed;
     width: 100px;
     
     
